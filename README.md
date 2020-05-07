@@ -3,7 +3,8 @@ Maven repository project
 
 Add next to pom.xml to add this repository into ypur project:
 
- `<repositories>
+{code}
+ <repositories>
         <repository>
             <id>library-project-mvn-repo</id>
             <url>https://raw.github.com/baevkir/library-project/mvn-repo/</url>
@@ -12,4 +13,5 @@ Add next to pom.xml to add this repository into ypur project:
                 <updatePolicy>always</updatePolicy>
             </snapshots>
         </repository>
-</repositories>`
+</repositories>
+{code}
