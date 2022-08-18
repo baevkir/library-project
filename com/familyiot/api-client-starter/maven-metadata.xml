@@ -4,8 +4,8 @@
   <artifactId>api-client-starter</artifactId>
   <versioning>
     <versions>
-      <version>1.0-SNAPSHOT</version>
+      <version>0.0.1-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20220215205451</lastUpdated>
+    <lastUpdated>20220818064140</lastUpdated>
   </versioning>
 </metadata>
