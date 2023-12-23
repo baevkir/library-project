@@ -2,24 +2,24 @@
 <metadata modelVersion="1.1.0">
   <groupId>com.kb</groupId>
   <artifactId>telegram-session-bot</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
   <versioning>
-    <lastUpdated>20231216135548</lastUpdated>
     <snapshot>
-      <timestamp>20231216.135548</timestamp>
+      <timestamp>20231223.133940</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
+    <lastUpdated>20231223133940</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>jar</extension>
-        <value>0.0.1-20231216.135548-1</value>
-        <updated>20231216135548</updated>
+        <value>0.0.1-20231223.133940-1</value>
+        <updated>20231223133940</updated>
       </snapshotVersion>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>0.0.1-20231216.135548-1</value>
-        <updated>20231216135548</updated>
+        <value>0.0.1-20231223.133940-1</value>
+        <updated>20231223133940</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
-  <version>0.0.1-SNAPSHOT</version>
 </metadata>
